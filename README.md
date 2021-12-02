@@ -2,7 +2,9 @@
 - 👀 I’m interested in Learning New Things, & Mainly Computer Science & Applications.
 - 🌱 I’m currently learning CSD
 - 💞️ I’m looking to collaborate on many things.
-- 📫 How to reach me ... - bhavberi.github.io
+- 📫 How to reach me ... 
+  - bhavberi.github.io
+  - bhavberi@gmail.com *But Mention Your Name and Subject Correctly*
 
 My Python Gold Badge on Hackerrank 
 https://www.hackerrank.com/bhavberi?badge=python&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin
