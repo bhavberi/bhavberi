@@ -19,6 +19,8 @@ My CodeChef Profile : https://www.codechef.com/users/bhavberi
 
 My CodeForces Profile : https://codeforces.com/profile/bhavberi  (Still Empty)
 
+https://github-readme-stats.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 bhavberi/bhavberi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
