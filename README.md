@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSD
 - 💞️ I’m looking to collaborate on many things.
 - 📫 How to reach me ... 
-  - bhavberi.github.io
+  - [bhavberi.github.io](bhavberi.github.io)
   - bhavberi@gmail.com *But Mention Your Name and Subject Correctly*
 
 My Python Gold Badge on Hackerrank 
