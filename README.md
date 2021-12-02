@@ -6,10 +6,9 @@
   - [bhavberi.github.io](bhavberi.github.io)
   - bhavberi@gmail.com *But Mention Your Name and Subject Correctly*
 
-My Python Gold Badge on Hackerrank 
-https://www.hackerrank.com/bhavberi?badge=python&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin
-My Problem Solving Silver Badge on Hackerrank
-https://www.hackerrank.com/bhavberi?badge=problem-solving&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin
+[My Python Gold Badge on Hackerrank ](https://www.hackerrank.com/bhavberi?badge=python&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin)
+
+[My Problem Solving Silver Badge on Hackerrank](https://www.hackerrank.com/bhavberi?badge=problem-solving&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin)
 
 Certified in Problem Solving(Basic) on Hackerrank
 Certified in Python(Basic) on Hackerrank
