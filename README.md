@@ -19,7 +19,7 @@ My CodeChef Profile : https://www.codechef.com/users/bhavberi
 
 My CodeForces Profile : https://codeforces.com/profile/bhavberi  (Still Empty)
 
-[![Bhav's github stats](https://github-readme-stats.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bhav's github stats](https://github-readme-stats.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
