@@ -18,9 +18,14 @@ My CodeChef Profile : https://www.codechef.com/users/bhavberi
 
 My CodeForces Profile : https://codeforces.com/profile/bhavberi  (Still Empty)
 
-[![Bhav's github stats](https://github-readme-stats.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+#### My Second Github Profile : _[@ b-beri](https://github.com/b-beri)_
 
+[![Bhav's Github stats](https://github-readme-stats.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavberi&hide=go)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Bhav's Second Github stats](https://github-readme-stats.vercel.app/api?username=b-beri&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-beri)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
