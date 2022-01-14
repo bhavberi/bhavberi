@@ -10,7 +10,7 @@
   My Python Gold Badge on Hackerrank
   <img src="./Python_Hackerrank.jpeg" alt="drawing" width="300"/>
 </a><br/>
-<a href="https://www.hackerrank.com/bhavberi?hr_r=1&badge=c&stars=3&level=2&social=linkedin">
+<a href="https://www.hackerrank.com/bhavberi?hr_r=1&badge=c&stars=4&level=2&social=linkedin">
   My C Silver Badge on Hackerrank
   <img src="./C_Hackerrank.jpeg" alt="drawing" width="250"/>
 </a><br/>
