@@ -14,9 +14,9 @@
   My C Silver Badge on Hackerrank
   <img src="./C_Batch_Hackerrank.jpeg" alt="drawing" width="250"/>
 </a><br/>
-<a href="https://www.hackerrank.com/bhavberi?badge=problem-solving&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
-  My Problem Solving Silver Badge on Hackerrank
-  <img src="./Problem_Solving_Hackerrank.jpeg" alt="drawing" width="250"/>
+<a href="https://www.hackerrank.com/bhavberi?badge=problem-solving&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
+  My Problem Solving Gold Badge on Hackerrank
+  <img src="./Problem_Solving_Gold_Hackerrank.jpeg" alt="drawing" width="250"/>
 </a><br/>
 <p></P>
 
