@@ -38,7 +38,7 @@ My CodeForces Profile : https://codeforces.com/profile/bhavberi  (Still Empty)
 #### My Second Github Profile : _[@ b-beri](https://github.com/b-beri)_
 
 [![Bhav's Second Github stats](https://github-readme-stats.vercel.app/api?username=b-beri&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-beri&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-beri&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
