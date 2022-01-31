@@ -8,11 +8,11 @@
 
 <a href="https://www.hackerrank.com/bhavberi?badge=python&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
   My Python Gold Badge on Hackerrank
-  <img src="./Python_Hackerrank.jpeg" alt="drawing" width="300"/>
+  <img src="./Python_Hackerrank.jpeg" alt="drawing" width="250"/>
 </a><br/>
 <a href="https://www.hackerrank.com/bhavberi?hr_r=1&badge=c&stars=4&level=2&social=linkedin">
   My C Silver Badge on Hackerrank
-  <img src="./C_Batch_Hackerrank.jpeg" alt="drawing" width="250"/>
+  <img src="./C_Gold_Hackerrank.jpeg" alt="drawing" width="250"/>
 </a><br/>
 <a href="https://www.hackerrank.com/bhavberi?badge=problem-solving&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
   My Problem Solving Gold Badge on Hackerrank
