@@ -46,13 +46,23 @@ My CodeForces Profile : https://codeforces.com/profile/bhavberi  (Still Empty)
 [![Bhav's Github stats](https://github-readme-stats.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=bhavberi&theme=onedark&column=9&margin-w=5" alt="zumrudu-anka" />
+    </a>
+</div-->
+
 ----
 #### My Second Github Profile : _[@ b-beri](https://github.com/b-beri)_
 
 [![Bhav's Second Github stats](https://github-readme-stats.vercel.app/api?username=b-beri&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-beri&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=b-beri&theme=onedark&column=9&margin-w=5&no-bg=false" alt="zumrudu-anka" />
+    </a>
+</div->
 
 <!---
 bhavberi/bhavberi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
