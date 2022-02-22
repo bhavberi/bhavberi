@@ -7,8 +7,8 @@
   - [bhavberi.github.io](bhavberi.github.io)
   - bhavberi@gmail.com (*But Mention Your Name and Email Subject Appropriately for Better & fast Response.*)
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=bhavberi&style=plastic&label=Profile+Views+'bhavberi' alt=bhavberi/> </p>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=b-beri&style=plastic&label=Profile+Views++'b-beri'++++ alt=b-beri/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=bhavberi&style=plastic&label=Profile+Views+@'bhavberi' alt=bhavberi/> </p>
+<!--p align="left"> <img src=https://komarev.com/ghpvc/?username=b-beri&style=plastic&label=Profile+Views++'b-beri'++++ alt=b-beri/> </p-->
 
 ----
 ### <ins>Some of my Current Badges</ins> :-
