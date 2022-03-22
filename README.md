@@ -33,6 +33,12 @@
   <img src="./Linkedin_C_Skill_Badge.jpeg" alt="drawing" width="500" title="Linkedin C Skill Assessment"/>
 </a>
 
+- _[POSTMAN STUDENT EXPERT](https://www.linkedin.com/posts/bhavberi_postman-studentexpert-activity-6911988451550584832-9dFr?utm_source=linkedin_share&utm_medium=member_desktop_web)_ 
+
+<a href="https://www.linkedin.com/posts/bhavberi_postman-studentexpert-activity-6911988451550584832-9dFr">
+  <img src="./Postman%20Student%20Expert%20Certificate.jpeg" alt="drawing" width="500" title="Postman Student Expert"/>
+</a>
+
 -----
 
 
