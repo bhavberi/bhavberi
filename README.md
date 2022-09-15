@@ -4,7 +4,6 @@
 - 🌱 I’m currently in **Computer Science Dual Degree** (B.Tech. + M.S. by Research) *@IIIT, Hyderabad*
 - 💞️ I’m looking to collaborate on many things & learn new skills along with helping others with what I currently know.
 - 📫 How to reach me ... 
-  - [bhavberi.github.io](bhavberi.github.io)
   - bhavberi@gmail.com (*But Mention Your Name and Email Subject Appropriately for Better & fast Response.*)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bhavberi&style=plastic&label=Profile+Views+@'bhavberi' alt=bhavberi/> </p>
