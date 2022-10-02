@@ -5,7 +5,7 @@
 - 🌱 I’m currently in **Computer Science Dual Degree** (B.Tech. + M.S. by Research) *@IIIT, Hyderabad*
 - 💞️ I’m looking to collaborate on many things & learn new skills along with helping others with what I currently know.
 - 📫 How to reach me ... 
-  - [![Linkedin bhavberi](https://img.shields.io/badge/bhavberi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanyagupta0201)
+  - [![Linkedin bhavberi](https://img.shields.io/badge/bhavberi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavberi)
   - [![Gmail bhavberi](https://img.shields.io/badge/bhavberi@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:bhavberi@gmail.com)
 - Some of my other ~~almost empty~~ profiles
   - [![leetcode bhavberi](https://img.shields.io/badge/Leetcode--bhavberi-30302f?style=flat&logo=leetcode)](https://leetcode.com/bhavberi/)
@@ -72,7 +72,7 @@
 
 ----
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4500&pause=700&color=1400A4&center=true&vCenter=true&width=435&height=28&lines=Thank+You+for+visiting!;Enjoy+Your+Life!!;Code+your+future+yourself!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4500&pause=700&color=1400A4&center=true&vCenter=true&width=435&height=28&lines=Thank+You+for+visiting!;Enjoy+Your+Life!!;Code+your+future+yourself!!!)]()
 
 <!---
 bhavberi/bhavberi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
