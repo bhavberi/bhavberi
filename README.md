@@ -72,7 +72,7 @@
 
 ----
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4500&pause=700&color=1400A4&center=true&vCenter=true&width=435&height=28&lines=Thank+You+for+visiting!;Enjoy+Your+Life!!;Code+your+future+yourself!!!)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4500&pause=700&color=FF4500&center=true&vCenter=true&width=435&height=28&lines=Thank+You+for+visiting!;Enjoy+Your+Life!!;Code+your+future+yourself!!!)]()
 
 <!---
 bhavberi/bhavberi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
