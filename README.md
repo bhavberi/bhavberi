@@ -46,23 +46,24 @@
 - [Certified in Problem Solving(Basic) on Hackerrank](https://www.hackerrank.com/certificates/008157a83c75)
 - [Certified in Python(Basic) on Hackerrank](https://www.hackerrank.com/certificates/ed93b82d87fc)
 - [Certified in SQL(Basic) on Hackerrank](https://www.hackerrank.com/certificates/991888df6807)
+<br/>
 
-- <a href="https://www.hackerrank.com/bhavberi?badge=python&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
-  My Python Gold Badge on Hackerrank
-  <img src="./Python_Hackerrank.jpeg" alt="drawing" width="130"/>
-</a><br/>
-- <a href="https://www.hackerrank.com/bhavberi?hr_r=1&badge=c&stars=5&level=3&social=linkedin">
-  My C Silver Badge on Hackerrank
-  <img src="./C_Gold_Hackerrank.jpeg" alt="drawing" width="130"/>
-</a><br/>
-- <a href="https://www.hackerrank.com/bhavberi?badge=problem-solving&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
-  My Problem Solving Gold Badge on Hackerrank
-  <img src="./Problem_Solving_Gold_Hackerrank.jpeg" alt="drawing" width="130"/>
-</a><br/>
-- <a href="https://www.hackerrank.com/bhavberi?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
-  My SQL Gold Badge on Hackerrank
-  <img src="./sql_Gold_Hackerrank.jpeg" alt="drawing" width="130"/>
-</a><br/>
+- My Gold Badges on <a href="https://www.hackerrank.com/bhavberi">Hackerrank</a> (Python, C, Problem Solving, SQL):- <br/><br/>
+  
+  <a href="https://www.hackerrank.com/bhavberi?badge=python&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
+    <img src="./Python_Hackerrank.jpeg" alt="drawing" width="150"/>
+  </a> 
+  <a href="https://www.hackerrank.com/bhavberi?hr_r=1&badge=c&stars=5&level=3&social=linkedin">
+    <img src="./C_Gold_Hackerrank.jpeg" alt="drawing" width="150"/>
+  </a>
+  <a href="https://www.hackerrank.com/bhavberi?badge=problem-solving&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
+    <img src="./Problem_Solving_Gold_Hackerrank.jpeg" alt="drawing" width="150"/>
+  </a>
+  <a href="https://www.hackerrank.com/bhavberi?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
+    <img src="./sql_Gold_Hackerrank.jpeg" alt="drawing" width="150"/>
+  </a><br/>
+<br/>
+
 - _[Linkedin Verified C Language Skill Badge](https://www.linkedin.com/posts/bhavberi_linkedinskillassessment-clanguage-programming-ugcPost-6897432135054061568-MX3z)_ (Passed Skill Assignment with being _**Top 5%**_ of _1.2M_ people who took the test by that time)
 
 <a href="https://www.linkedin.com/posts/bhavberi_linkedinskillassessment-clanguage-programming-ugcPost-6897432135054061568-MX3z">
