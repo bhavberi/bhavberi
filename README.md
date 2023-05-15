@@ -18,8 +18,11 @@
 ----
 <p></p>
 
+#### My Primary Github Profile : _[@ bhavberi](https://github.com/bhavberi)_
+
 [![Bhav's Github stats](https://github-readme-stats-bhavberi.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=flag-india&hide_rank=false&include_all_commits=true&disable_animations=false&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
 [![Top Langs](https://github-readme-stats-bhavberi.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go&theme=flag-india&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
+![Trophies](https://github-profile-trophy.vercel.app/?username=bhavberi&column=3&no-bg=true&no-frame=true&rank=-C,-B)
 
 <!--div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
