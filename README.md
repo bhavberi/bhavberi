@@ -20,7 +20,7 @@
 
 #### My Primary Github Profile : _[@ bhavberi](https://github.com/bhavberi)_
 
-[![Bhav's Github stats](https://github-readme-stats-bhavberi.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=flag-india&hide_rank=false&include_all_commits=true&disable_animations=false&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
+[![Bhav's Github stats](https://github-readme-stats.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=flag-india&hide_rank=false&include_all_commits=true&disable_animations=false&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
 [![Top Langs](https://github-readme-stats-bhavberi.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go&theme=flag-india&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bhavberi&column=-1&no-bg=true&no-frame=true&rank=-C,-B)
 
@@ -33,7 +33,7 @@
 ----
 #### My Second Github Profile : _[@ b-beri](https://github.com/b-beri)_
 
-[![Bhav's Second Github stats](https://github-readme-stats-bhavberi.vercel.app/api?username=b-beri&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&disable_animations=false&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
+[![Bhav's Second Github stats](https://github-readme-stats.vercel.app/api?username=b-beri&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&disable_animations=false&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
 [![Top Langs](https://github-readme-stats-bhavberi.vercel.app/api/top-langs/?username=b-beri&langs_count=5&theme=tokyonight&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
 
 <!--div align=center>
