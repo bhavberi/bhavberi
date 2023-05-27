@@ -24,13 +24,13 @@
 [![Top Langs](https://github-readme-stats-bhavberi.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go&theme=flag-india&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bhavberi&column=-1&no-bg=true&no-frame=true&rank=-C,-B) -->
 
-<p align="center>
-    <img src="https://github-readme-stats.vercel-bhavberi.app/api?username=bhavberi&count_private=true&hide_rank=true&show_icons=true&theme=flag-india&disable_animations=false&hide_border=true" alt="Stats" />
+<p align="center">
+    <img src="https://github-readme-stats-bhavberi.vercel.app/api?username=bhavberi&count_private=true&hide_rank=true&show_icons=true&theme=flag-india&disable_animations=false&hide_border=true" alt="Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go&theme=flag-india&hide_border=true" alt="TopLangs" />
 </p>
-<center>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhavberi&column=-1&no-bg=true&no-frame=true&rank=-C,-B" alt="Trophies" />
-</center>
+</p>
   
 <!--div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
