@@ -1,4 +1,5 @@
-## <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi, I’m <ins>***BHAV BERI***</ins>. 
+<!-- ## <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  -->
+## 👋 Hi, I’m <ins>***BHAV BERI***</ins>. 
 ----
 
 - 👀 I’m interested in Learning New Things, Mainly in field of Computer Science & Applications. I am a creatively curious learner.
@@ -18,30 +19,24 @@
 ----
 <p></p>
 
-#### My Primary Github Profile : _[@ bhavberi](https://github.com/bhavberi)_
-
-[![Bhav's Github stats](https://github-readme-stats.vercel.app/api?username=bhavberi&count_private=true&show_icons=true&theme=flag-india&hide_rank=false&include_all_commits=true&disable_animations=false&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
+<!-- &include_all_commits=true -->
+<!-- [![Bhav's Github stats](https://github-readme-stats-bhavberi.vercel.app/api?username=bhavberi&count_private=true&hide_rank=true&show_icons=true&theme=flag-india&disable_animations=false&hide_border=true)](https://github.com/bhavberi/github-readme-stats) 
 [![Top Langs](https://github-readme-stats-bhavberi.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go&theme=flag-india&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
-![Trophies](https://github-profile-trophy.vercel.app/?username=bhavberi&column=-1&no-bg=true&no-frame=true&rank=-C,-B)
+![Trophies](https://github-profile-trophy.vercel.app/?username=bhavberi&column=-1&no-bg=true&no-frame=true&rank=-C,-B) -->
 
+<p align="center>
+    <img src="https://github-readme-stats.vercel-bhavberi.app/api?username=bhavberi&count_private=true&hide_rank=true&show_icons=true&theme=flag-india&disable_animations=false&hide_border=true" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go&theme=flag-india&hide_border=true" alt="TopLangs" />
+</p>
+<center>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavberi&column=-1&no-bg=true&no-frame=true&rank=-C,-B" alt="Trophies" />
+</center>
+  
 <!--div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=bhavberi&theme=onedark&column=9&margin-w=5" alt="zumrudu-anka" />
     </a>
 </div-->
-
-----
-#### My Second Github Profile : _[@ b-beri](https://github.com/b-beri)_
-
-[![Bhav's Second Github stats](https://github-readme-stats.vercel.app/api?username=b-beri&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true&disable_animations=false&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
-[![Top Langs](https://github-readme-stats-bhavberi.vercel.app/api/top-langs/?username=b-beri&langs_count=5&theme=tokyonight&hide_border=true)](https://github.com/bhavberi/github-readme-stats)
-
-<!--div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=b-beri&theme=onedark&column=9&margin-w=5&no-bg=false" alt="zumrudu-anka" />
-    </a>
-</div-->
-
 ----
 ----
 
