@@ -54,7 +54,7 @@
     <img src="./C_Gold_Hackerrank.jpeg" alt="drawing" width="150"/>
   </a>
   <a href="https://www.hackerrank.com/bhavberi?badge=problem-solving&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
-    <img src="./Problem_Solving_Gold_Hackerrank.jpeg" alt="drawing" width="150"/>
+    <img src="./Problem_Solving_Gold_Hackerrank.jpeg" a[Git](https://www.linkedin.com/in/bhavberi/)lt="drawing" width="150"/>
   </a>
   <a href="https://www.hackerrank.com/bhavberi?badge=sql&stars=5&level=3&hr_r=1&utm_campaign=social-buttons&utm_medium=linkedin&utm_source=badge_share_profile&social=linkedin">
     <img src="./sql_Gold_Hackerrank.jpeg" alt="drawing" width="150"/>
@@ -66,17 +66,25 @@
   <img src="./Postman%20Student%20Expert%20Certificate.jpeg" alt="drawing" width="500" title="Postman Student Expert"/>
 </a> -->
 
-- _[Linkedin Verified C Language Skill Badge](https://www.linkedin.com/posts/bhavberi_linkedinskillassessment-clanguage-programming-ugcPost-6897432135054061568-MX3z)_ (Passed Skill Assignment with being _**Top 5%**_ of _1.2M_ people who took the test by that time)
+- #### ***[Linkedin Verified Skill Badges](https://www.linkedin.com/in/bhavberi/)***
 
-<a href="https://www.linkedin.com/posts/bhavberi_linkedinskillassessment-clanguage-programming-ugcPost-6897432135054061568-MX3z">
-  <img src="./Linkedin_C_Skill_Badge_cropped.jpeg" alt="drawing" width="650" title="Linkedin C Skill Assessment"/>
-</a>
+  - _C Language_ [(Passed Skill Assignment with being _**Top 5% of 1.2M**_ people who took the test by that time)](./Linkedin_C_Skill_Badge_cropped.jpeg)
 
-- _[Linkedin Verified Python Language Skill Badge](https://www.linkedin.com/in/bhavberi/)_ (Passed Skill Assignment with being _**Top 5%**_ of _4.5M_ people who took the test by that time)
+  <!-- <a href="https://www.linkedin.com/posts/bhavberi_linkedinskillassessment-clanguage-programming-ugcPost-6897432135054061568-MX3z">
+    <img src="./Linkedin_C_Skill_Badge_cropped.jpeg" alt="drawing" width="650" title="Linkedin C Skill Assessment"/>
+  </a> -->
 
-<a href="https://www.linkedin.com/in/bhavberi/">
-  <img src="./Linkedin_Python_Skill_Badge.jpeg" alt="drawing" width="650" title="Linkedin C Skill Assessment"/>
-</a>
+  - _Python Language_ [(Passed Skill Assignment with being _**Top 5% of 4.5M**_ people who took the test by that time)](./Linkedin_Python_Skill_Badge.jpeg)
+  
+  <!-- <a href="https://www.linkedin.com/in/bhavberi/">
+    <img src="./Linkedin_Python_Skill_Badge.jpeg" alt="drawing" width="650" title="Linkedin C Skill Assessment"/>
+  </a> -->
+
+  - _Git_ [(Passed Skill Assignment with being _**Top 5% of 1.5M**_ people who took the test by that time)](./Linkedin_Git_Skill_Badge.jpeg)
+  
+  <!-- <a href="https://www.linkedin.com/in/bhavberi/">
+    <img src="./Linkedin_Git_Skill_Badge.jpeg" alt="drawing" width="650" title="Linkedin C Skill Assessment"/>
+  </a> -->
 
 ----
 
