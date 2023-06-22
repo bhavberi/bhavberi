@@ -72,6 +72,12 @@
   <img src="./Linkedin_C_Skill_Badge_cropped.jpeg" alt="drawing" width="650" title="Linkedin C Skill Assessment"/>
 </a>
 
+- _[Linkedin Verified Python Language Skill Badge](https://www.linkedin.com/in/bhavberi/)_ (Passed Skill Assignment with being _**Top 5%**_ of _4.5M_ people who took the test by that time)
+
+<a href="https://www.linkedin.com/in/bhavberi/">
+  <img src="./Linkedin_Python_Skill_Badge.jpeg" alt="drawing" width="650" title="Linkedin C Skill Assessment"/>
+</a>
+
 ----
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4500&pause=700&color=FF4500&center=true&vCenter=true&width=435&height=28&lines=Thank+You+for+visiting!;Enjoy+Your+Life!!;Code+your+future+yourself!!!)]() -->
