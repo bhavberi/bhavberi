@@ -29,7 +29,7 @@
     <img src="https://github-readme-stats-bhavberi.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go&theme=flag-india&hide_border=true" alt="TopLangs" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavberi&column=-1&no-bg=true&no-frame=true&rank=-C,-B" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavberi&no-bg=true&no-frame=true&rank=-C,-B" alt="Trophies" />
 </p>
   
 <!--div align=center>
