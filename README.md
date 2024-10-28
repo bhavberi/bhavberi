@@ -40,10 +40,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bhavberi&theme=flag-india&hide_border=true&mode=weekly&type=png" alt="GitHub Streak" />
-</p>
-<p align="center">
+<!-- </p>
+<p align="center"> -->
     <img src="https://github-readme-stats-bhavberi.vercel.app/api?username=bhavberi&count_private=true&hide_rank=true&show_icons=true&theme=flag-india&disable_animations=false&hide_border=true" alt="Stats" />
-    <img src="https://github-readme-stats-bhavberi.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go,Jupyter%20Notebook&theme=flag-india&hide_border=true&size_weight=0.5&count_weight=0.5&layout=donut" alt="TopLangs" />
+    <!-- <img src="https://github-readme-stats-bhavberi.vercel.app/api/top-langs/?username=bhavberi&exclude_repo=IIITH-Resources&hide=go,Jupyter%20Notebook&theme=flag-india&hide_border=true&size_weight=0.5&count_weight=0.5&layout=donut" alt="TopLangs" /> -->
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhavberi&no-bg=true&no-frame=true&rank=-C,-B" alt="Trophies" />
