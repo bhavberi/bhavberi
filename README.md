@@ -13,22 +13,19 @@
 <!-- - 📫 How to reach me... 
   - [![Linkedin bhavberi](https://img.shields.io/badge/bhavberi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/bhavberi)
   - [![Gmail bhavberi](https://img.shields.io/badge/bhavberi@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:bhavberi@gmail.com) -->
- 
+
 ----
  
 <h3 style="display: flex; align-items: center;"> 
     Connect with me... <img src='./icons/hands.gif' width="60px">
 </h3>
 
-<a href="https://www.linkedin.com/in/bhavberi"><img src="./icons/linkedin.svg" alt="Linkedin" height="32px" width="32px"/></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/bhavberi"><img src="./commercial_icons/linkedin.svg" alt="Linkedin" height="32px" width="32px"/></a> &nbsp; &nbsp;
 <a href="mailto:bhavberi@gmail.com"><img src="./icons/email.svg" alt="Gmail" height="32px" width="32px"/></a> &nbsp; &nbsp;
-<a href="https://github.com/bhavberi"><img src="./icons/github.svg" alt="Github" height="32px" width="32px"/></a> &nbsp; &nbsp;
+<a href="https://github.com/bhavberi"><img src="./commercial_icons/github.svg" alt="Github" height="32px" width="32px"/></a> &nbsp; &nbsp;
 
 <!-- Icons from https://iconscout.com/icons/linkedin?price=free -->
 
-<!-- <a href = 'https://www.linkedin.com/in/pranav-gupta-8a0687275/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp; &nbsp;
-<a href = 'https://www.linkedin.com/in/pranav-gupta-8a0687275/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> &nbsp; &nbsp;
-<a href = 'https://www.github.com/Pranav-gu'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  -->
 
 ----
 <p></p>
