@@ -109,6 +109,5 @@ bhavberi/bhavberi is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<br/>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bhavberi&style=plastic&label=Profile+Views+@'bhavberi' alt=bhavberi/> </p>
 <!--p align="left"> <img src=https://komarev.com/ghpvc/?username=b-beri&style=plastic&label=Profile+Views++'b-beri'++++ alt=b-beri/> </p-->
