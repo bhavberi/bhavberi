@@ -36,7 +36,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bhavberi&column=-1&no-bg=true&no-frame=true&rank=-C,-B) -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhavberi&theme=flag-india&hide_border=true&mode=weekly&type=png" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=bhavberi&theme=flag-india&hide_border=true&mode=weekly" alt="GitHub Streak" />
 <!-- </p>
 <p align="center"> -->
     <img src="https://github-readme-stats-bhavberi.vercel.app/api?username=bhavberi&count_private=true&hide_rank=true&show_icons=true&theme=flag-india&disable_animations=false&hide_border=true" alt="Stats" />
