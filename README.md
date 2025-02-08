@@ -23,9 +23,10 @@
 <a href="https://www.linkedin.com/in/bhavberi"><img src="./commercial_icons/linkedin.svg" alt="Linkedin" height="32px" width="32px"/></a> &nbsp; &nbsp;
 <a href="mailto:bhavberi@gmail.com"><img src="./icons/email.svg" alt="Gmail" height="32px" width="32px"/></a> &nbsp; &nbsp;
 <a href="https://github.com/bhavberi"><img src="./commercial_icons/github.svg" alt="Github" height="32px" width="32px"/></a> &nbsp; &nbsp;
+<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AOv-ny_UqeIlS5hDT6BTn68kTCLseH_bnx4uw59LRyPoSnWUtrl7_XxWIOardHRiqyuLnPSH1Ha0pVRNwbtPmB0M6ECjdbXwqJXQ8FfhM5M&user=Th2u6eYAAAAJ
+"><img src="./commercial_icons/Gscholar.svg" alt="Google Scholar" height="32px" width="32px"/></a> &nbsp; &nbsp;
 
 <!-- Icons from https://iconscout.com/icons/linkedin?price=free -->
-
 
 ----
 <p></p>
